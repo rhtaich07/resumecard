@@ -2,8 +2,8 @@
 title: Pradyumna's CV 
 description: pradyumnac's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://pradyumnac.github.io/resumecard
-url: https://pradyumnac.github.io/resumecard
+baseurl: https://rhtaich07.github.io/resumecard
+url: https://rhtaich07.github.io/resumecard
 rss_url: /pages/atom.xml
 google_analytics: UA-102177899-2
 
@@ -18,7 +18,7 @@ author:
   title: Python Developer
   address: Kolkata, India
   email: pady92#gmail[dot]com
-  link: https://pradyumnac.github.io
+  link: https://rhtaich07.github.io
   weibo:
   github: pradyumnac
   linkedin: pradyumnac
