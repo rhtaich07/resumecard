@@ -73,14 +73,23 @@ author:
       name: J2EE Technology Stack
       percentage: 100%
     - skill2:
+      name: Web Portals
+      percentage: 90%
+    - skill3:
+      name: Spring MVC, Hibernate
+      percentage: 80%
+    - skill4:
       name: Design Patterns 
       percentage: 80%
-    - skill3:
+    - skill5:
       name: JavaScript
       percentage: 70%
-    - skill4:
+    - skill6:
       name: Databases
-      percentage: 60%
-    - skill5:
+      percentage: 65%
+    - skill7:
       name: Web Services
-      percentage: 50%
+      percentage: 60%
+    - skill8:
+      name: XML, XSD-s
+      percentage: 60%
