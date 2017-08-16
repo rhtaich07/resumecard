@@ -1,7 +1,7 @@
 # Site settings
 title: Rohit's CV
 description: Rohit's CV
-favicon: /assets/img/dp.jpg
+favicon: /assets/img/avatar.jpg
 baseurl: https://rhtaich07.github.io/resumecard
 url: https://rhtaich07.github.io/resumecard
 # rss_url: /pages/atom.xml
@@ -23,7 +23,7 @@ author:
   github: rhtaich07
   #linkedin: pradyumnac
   #twitter: pradyumnacster
-  gavatar: /resumecard/assets/img/dp.jpg
+  gavatar: /resumecard/assets/img/avatar.jpg
   #stackoverflow:
   #stackoverflow: 4582127
   workHistory:
