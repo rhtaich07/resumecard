@@ -1,11 +1,11 @@
 # Site settings
-title: Pradyumna's CV 
-description: pradyumnac's CV
+title: Rohit's CV
+description: Rohit's CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://rhtaich07.github.io/resumecard
 url: https://rhtaich07.github.io/resumecard
-rss_url: /pages/atom.xml
-google_analytics: UA-102177899-2
+# rss_url: /pages/atom.xml
+google_analytics: UA-104676903-1
 
 # Build settings
 markdown: kramdown
@@ -14,49 +14,50 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Pradyumna Chatterjee
-  title: Python Developer
+  name: Rohit Aich
+  title: J2EE Developer, Software Design Architect
   address: Kolkata, India
-  email: pady92#gmail[dot]com
+  email: rhtaich07@gmail.com
   link: https://rhtaich07.github.io
   weibo:
-  github: pradyumnac
-  linkedin: pradyumnac
-  twitter: pradyumnacster
+  github: rhtaich07
+  #linkedin: pradyumnac
+  #twitter: pradyumnacster
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
-#  stackoverflow: 4582127
+  #stackoverflow:
+  #stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Independant Consultant
-      location: Kolkata, India
-      title: Devops Engineer
-      started: August 2017
-      duration: (2017 - present)
-      description: I am currently working as a Consultant Devops Engineer for various clients primarily using Python, Google App Engine and Google CLoud APIs. I am also working on a personal project to educate and make Machine learning accessible to the younger associates in my industry. You may follow my Machine Learning journey through my gitbook [Machine Learning](https://thisdigitallife.gitbooks.io/machinelearning/content/)
-    - work2:
       company: Cognizant Technology Solutions Limited
       location: Kolkata, India
       title: Automation Engineer (UFT & Selenium)
       started: 2013
-      duration: (2013 - Aug, 2017)
+      duration: (Nov, 2012 - present)
       description: I have worked extensively with US based Insurance Gianys on developing Autmation Testing Solutions using UFT, Selenium and SOAP UI Automation. My domain of expertise in the role was Web testing & Automation Testing
-    - work3:
+    - work2:
       company: Aptsource Software Private Limited
       location: Kolkata, China
       title: Java Developer
       started: 2012
-      duration: (2012 - 2014)
-      description: I have worked as a Full Stack Developer for US based clients on Ecommerce and Hospital Manage.ment domains. My primary language was Python/Django Framework. I have worked as a full stack developer working on Python, Javascript & Postgres. I have wokred on some parts of J2EE/Java based Struts framework  as part of my role in the company
+      duration: (Jul, 2012 - Nov, 2012)
+      description: I have worked as a Full Stack Developer for US based clients on the Hospital Management domain, in the J2EE technology stack (jsp, servlets etc.), using Struts 2.0 framework. I have worked as a J2EE developer working on Java, Javascript & PostgreSQL.
   educationHistory:
     - education1:
-      organization: St. Thomas College of Engineering & Technology
+      organization: Birla Institute of Technology & Science
+      location: Pilani, India
+      degree: Master
+      major: Software Engineering
+      started: 2013
+      duration: (2014 - 2015)
+      description: I have pursued M. Tech. (Graduation) in Software Engineering with concentration on Software Deployment Architectures.
+    - education2:
+      organization: St. Thomas College of Engineering & Technology, West Bengal University of Technology
       location: Kolkata, India
       degree: Bachelor
-      major: Computer Science
-      started: 2009
-      duration: (2009 - 2012)
-      description: I have pursued B. Tech. (Graduation) in Computer Science and Engineering with Specialisation in Image Processing and Computer Vision
+      major: Computer Science & Engineering
+      started: 2008
+      duration: (2008 - 2012)
+      description: I have pursued B. Tech. (Graduation) in Computer Science and Engineering with concentration on Cryptography ad Network Security.
   languages:
     - language1:
       name: English
@@ -69,17 +70,17 @@ author:
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: Python
+      name: J2EE Technology Stack
       percentage: 100%
     - skill2:
-      name: Bootstrap
+      name: Design Patterns 
       percentage: 80%
     - skill3:
       name: JavaScript
-      percentage: 80%
+      percentage: 70%
     - skill4:
-      name: Google App Engine
-      percentage: 50%
+      name: Databases
+      percentage: 60%
     - skill5:
-      name: Machine Learning
+      name: Web Services
       percentage: 50%
