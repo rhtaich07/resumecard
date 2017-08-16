@@ -1,6 +1,6 @@
 # Curriculum Vitae
 -------
-This reporsitory hosts the resume/cv for Pradyumna Chatterjee  
+This reporsitory hosts the resume/cv for Rohit Aich  
 
 
 ## License
