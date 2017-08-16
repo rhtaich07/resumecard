@@ -1,7 +1,7 @@
 # Site settings
 title: Rohit's CV
 description: Rohit's CV
-favicon: /assets/img/avatar.jpg
+favicon: /assets/img/favicon.png
 baseurl: https://rhtaich07.github.io/resumecard
 url: https://rhtaich07.github.io/resumecard
 # rss_url: /pages/atom.xml
